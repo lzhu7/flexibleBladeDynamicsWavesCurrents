@@ -1,4 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%copy right @ Longhuan Zhu 2020%%%%%%%%%%%%%%%%%%%%%%
+
 ---------------------------version 2020.01--------------------------------
 
 This is a MATLAB transcript to calculate the dynamics of flexible blade in
