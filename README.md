@@ -12,6 +12,7 @@ and the general case with linear waves is referred to
 mainFunction_LinearWaveTest.m 
 
 Recommended Citation:
+
 Zhu, L., Zou, Q., Huguenard, K., & Fredriksson, D. W. (2020).
 Mechanisms for the Asymmetric Motion of Submerged Aquatic Vegetation in
 Waves: A Consistent-Mass Cable Model. JGR: Oceans, 125(2).
